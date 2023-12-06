@@ -1,6 +1,6 @@
 Name:		texlive-flexipage
-Version:	64572
-Release:	2
+Version:	66614
+Release:	1
 Summary:	Flexible page geometry with marginalia
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/flexipage
