@@ -3,7 +3,7 @@ Version:	66614
 Release:	1
 Summary:	Flexible page geometry with marginalia
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/flexipage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/flexipage
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/flexipage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/flexipage.doc.r%{version}.tar.xz
